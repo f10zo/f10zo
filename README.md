@@ -63,4 +63,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatmeh-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatmeh/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-fatmehzo3bi10@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:fatmehzo3bi10@gmail.com)
+
+<br>
 Feel free to reach out! 🙌
