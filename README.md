@@ -47,8 +47,8 @@ VS Code, Eclipse, Spyder, Google Colab, Git & GitHub
 
 <br><br>
 
-**Design & Engineering Tools:**
-Google Slides, Figma, Canva (for visual design and presentations), SolidWorks, and LabVIEW (from mechatronics background in high school)
+<br><br> **Design & Engineering Tools:**
+Google Slides, Figma, Canva, SolidWorks, and LabVIEW 
 <br>
 [![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/)
 &nbsp;&nbsp;
