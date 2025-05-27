@@ -44,8 +44,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 <br><br>
-
-<br><br> **Design & Engineering Tools:**
+**Design & Engineering Tools:**
 <br>
 [![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/)
 &nbsp;&nbsp;
