@@ -30,7 +30,8 @@ Google Slides, Figma, Canva (for visual design and presentations), SolidWorks, a
 
 ## 📫 Let's Connect
 
-- 🔗 [GitHub](https://github.com/f10zo)  
+- 🔗 [GitHub](https://github.com/f10zo)
+- 🔗 [LinkedIn](https://linkedin.com/fatmeh)  
 - 📧 fatmehzo3bi10@gmail.com  
 
 Feel free to reach out! 🙌
