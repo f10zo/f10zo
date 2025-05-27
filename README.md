@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Fatmeh!
 
-<!--
-**f10zo/f10zo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fatmeh](https://your-image-link.jpg)
 
-Here are some ideas to get you started:
+🎓 I'm a Software Engineering student at Braude Academic College.  
+🎨 I have a strong interest in visual communication and user-facing design, particularly in creating clear, well-structured presentations and interfaces.  
+💡 I'm still exploring what I'm truly passionate about, but I'm driven by curiosity, problem-solving, and learning how things work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔍 Exploring the intersection of **bioinformatics** and **machine learning**  
+- 👨‍🏫 Experienced private tutor — passionate about explaining complex ideas clearly  
+- 🛠️ Skilled in data mining, web development, and cloud computing  
+- 🌐 Fluent in Arabic, Hebrew, and English  
+
+---
+
+## 🧠 Technologies & Tools
+
+**Programming Languages:**  
+Python, Java, C, Assembly, HTML, CSS, JavaScript
+
+**Development Environments & Tools:**  
+VS Code, Eclipse, Spyder, Google Colab, Git & GitHub
+
+**Design & Engineering Tools:**  
+Google Slides, Figma, Canva (for visual design and presentations), SolidWorks, and LabVIEW (from robotics background in high school)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [GitHub](https://github.com/f10zo)  
+- 📧 fatmehzo3bi10@gmail.com  
+
+Feel free to reach out! 🙌
