@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Fatmeh!
 
-![Fatmeh](https://your-image-link.jpg)
-
 🎓 I'm a Software Engineering student at Braude Academic College.  
 🎨 I have a strong interest in visual communication and user-facing design, particularly in creating clear, well-structured presentations and interfaces.  
 💡 I'm still exploring what I'm truly passionate about, but I'm driven by curiosity, problem-solving, and learning how things work.
