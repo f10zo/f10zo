@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Fatmeh!
 
-🎓 I'm a Software Engineering Student at Braude Academic College (Graduating March 2026).
+🎓 I'm a Software Engineering Student at Braude Academic College (Graduating March 2026).  
+📚 Starting next semester, I’ll also be pursuing a Teaching Certificate in Computer Science.
 🎨 I have a strong interest in visual communication and user-facing design, particularly in creating clear, well-structured presentations and interfaces.
 💡 I'm still exploring what I'm truly passionate about, but I'm driven by curiosity, problem-solving, and learning how things work.
 
